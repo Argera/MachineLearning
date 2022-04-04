@@ -1,2 +1,2 @@
 # MachineLearning
-Neural network programs 
+Neural network programs for classification and clustering problems.
